@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+}
+td {
+    width: 70px;
+    height: 70px;
+}
+.white {
+    background-color: white;
+}
+.black {
+    background-color: black;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 98vh;
+}
+div{
+    border: 2px solid rgb(9, 205, 240);
+    width: fit-content;
+}
+body{
+    background-color: rgb(183, 210, 30);
+}
